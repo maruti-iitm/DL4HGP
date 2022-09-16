@@ -7,5 +7,5 @@ This folder provides the links for simulation and observational data
 5. Material ID for masking (e.g., river, Hanford, ringold etc)
 
 
-The datasets are of big size and are available at: DOI: 10.5281/zenodo.7026248
+The datasets are of big size and are available at: [DOI](https://doi.org/10.5281/zenodo.7026248): 10.5281/zenodo.7026248
 (Training Deep Learning Models to Estimate Permeability using Geophysical Datasets)
